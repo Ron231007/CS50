@@ -1,4 +1,5 @@
 # 💰 Expense Tracker App
+#### Video Demo: https://youtu.be/keUeBaY2Yuk
 
 ## 📌 Overview
 This is a simple Python-based Expense Tracker application that helps users manage their daily finances. You can add expenses, update savings, set budgets, and view spending insights such as top expenses and budget status.
